@@ -16,7 +16,9 @@ This task includes several linguistic challenges:
 
 ```bash
 pip install -r requirements.txt
+```
 
+```bash
 python train.py
 ```
 
